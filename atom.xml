@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-10-28T15:36:24.431Z</updated>
+  <updated>2022-10-30T13:53:08.937Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,35 +17,50 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>my first blog in github</title>
-    <link href="http://example.com/2022/10/28/my-first-blog-in-github/"/>
-    <id>http://example.com/2022/10/28/my-first-blog-in-github/</id>
-    <published>2022-10-28T15:36:24.000Z</published>
-    <updated>2022-10-28T15:36:24.431Z</updated>
+    <title>2021212359YHL HOMEWORK</title>
+    <link href="http://example.com/2022/10/27/my-first-blog-in-github/"/>
+    <id>http://example.com/2022/10/27/my-first-blog-in-github/</id>
+    <published>2022-10-26T16:00:00.000Z</published>
+    <updated>2022-10-30T13:53:08.937Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="作为创新创业实践课的作业，我尝试着搭建了第一个我自己的网站框架"><a href="#作为创新创业实践课的作业，我尝试着搭建了第一个我自己的网站框架" class="headerlink" title="作为创新创业实践课的作业，我尝试着搭建了第一个我自己的网站框架"></a>作为创新创业实践课的作业，我尝试着搭建了第一个我自己的网站框架</h1><table><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;作为创新创业实践课的作业，我尝试着搭建了第一个我自己的网站框架&quot;&gt;&lt;a href=&quot;#作为创新创业实践课的作业，我尝试着搭建了第一个我自己的网站框架&quot; class=&quot;headerlink&quot; title=&quot;作为创新创业实践课的作业，我尝试着搭建了第一个我自己的网站框</summary>
+      
     
     
     
+    <category term="Function_test" scheme="http://example.com/categories/Function-test/"/>
     
+    
+    <category term="无聊产出" scheme="http://example.com/tags/%E6%97%A0%E8%81%8A%E4%BA%A7%E5%87%BA/"/>
     
   </entry>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://example.com/2022/10/27/hello-world/"/>
-    <id>http://example.com/2022/10/27/hello-world/</id>
-    <published>2022-10-27T10:49:34.999Z</published>
-    <updated>2022-10-27T10:49:34.999Z</updated>
+    <title>hexo</title>
+    <link href="http://example.com/2022/10/19/hello-world/"/>
+    <id>http://example.com/2022/10/19/hello-world/</id>
+    <published>2022-10-18T16:00:00.000Z</published>
+    <updated>2022-10-30T13:52:41.205Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
     
-      
-      
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
-      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo new &lt;span class=&quot;string&quot;&gt;&amp;quot;My New Post&amp;quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/writing.html&quot;&gt;Writing&lt;/a&gt;&lt;/p&gt;</summary>
     
     
     
+    <category term="hexo_infor" scheme="http://example.com/categories/hexo-infor/"/>
+    
+    
+    <category term="hexo" scheme="http://example.com/tags/hexo/"/>
     
   </entry>
   
