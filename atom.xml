@@ -3,11 +3,11 @@
   <title>白告山风</title>
   
   <subtitle>不定期更新摄影，acm题解等等有趣的东西~</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://onem.cloud/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="http://onem.cloud/"/>
   <updated>2022-11-26T07:09:32.067Z</updated>
-  <id>http://example.com/</id>
+  <id>http://onem.cloud/</id>
   
   <author>
     <name>Mr.白</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>README</title>
-    <link href="http://example.com/2022/11/26/README/"/>
-    <id>http://example.com/2022/11/26/README/</id>
+    <link href="http://onem.cloud/2022/11/26/README/"/>
+    <id>http://onem.cloud/2022/11/26/README/</id>
     <published>2022-11-26T07:03:02.000Z</published>
     <updated>2022-11-26T07:09:32.067Z</updated>
     
@@ -35,8 +35,8 @@
   
   <entry>
     <title>z5亲身评测以及第一次扫街成果</title>
-    <link href="http://example.com/2022/10/27/my-first-blog-in-github/"/>
-    <id>http://example.com/2022/10/27/my-first-blog-in-github/</id>
+    <link href="http://onem.cloud/2022/10/27/my-first-blog-in-github/"/>
+    <id>http://onem.cloud/2022/10/27/my-first-blog-in-github/</id>
     <published>2022-10-26T16:00:00.000Z</published>
     <updated>2022-11-21T13:00:26.528Z</updated>
     
@@ -47,19 +47,19 @@
     
     
     
-    <category term="Photography" scheme="http://example.com/categories/Photography/"/>
+    <category term="Photography" scheme="http://onem.cloud/categories/Photography/"/>
     
     
-    <category term="无聊产出" scheme="http://example.com/tags/%E6%97%A0%E8%81%8A%E4%BA%A7%E5%87%BA/"/>
+    <category term="无聊产出" scheme="http://onem.cloud/tags/%E6%97%A0%E8%81%8A%E4%BA%A7%E5%87%BA/"/>
     
-    <category term="构图" scheme="http://example.com/tags/%E6%9E%84%E5%9B%BE/"/>
+    <category term="构图" scheme="http://onem.cloud/tags/%E6%9E%84%E5%9B%BE/"/>
     
   </entry>
   
   <entry>
     <title>P3375 【模板】KMP字符串匹配</title>
-    <link href="http://example.com/2022/09/01/P3375-%E3%80%90%E6%A8%A1%E6%9D%BF%E3%80%91KMP%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%8C%B9%E9%85%8D/"/>
-    <id>http://example.com/2022/09/01/P3375-%E3%80%90%E6%A8%A1%E6%9D%BF%E3%80%91KMP%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%8C%B9%E9%85%8D/</id>
+    <link href="http://onem.cloud/2022/09/01/P3375-%E3%80%90%E6%A8%A1%E6%9D%BF%E3%80%91KMP%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%8C%B9%E9%85%8D/"/>
+    <id>http://onem.cloud/2022/09/01/P3375-%E3%80%90%E6%A8%A1%E6%9D%BF%E3%80%91KMP%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%8C%B9%E9%85%8D/</id>
     <published>2022-09-01T03:32:16.000Z</published>
     <updated>2022-11-21T15:00:40.039Z</updated>
     
@@ -70,19 +70,19 @@
     
     
     
-    <category term="Luogu" scheme="http://example.com/categories/Luogu/"/>
+    <category term="Luogu" scheme="http://onem.cloud/categories/Luogu/"/>
     
-    <category term="题解" scheme="http://example.com/categories/Luogu/%E9%A2%98%E8%A7%A3/"/>
+    <category term="题解" scheme="http://onem.cloud/categories/Luogu/%E9%A2%98%E8%A7%A3/"/>
     
     
-    <category term="KMP匹配" scheme="http://example.com/tags/KMP%E5%8C%B9%E9%85%8D/"/>
+    <category term="KMP匹配" scheme="http://onem.cloud/tags/KMP%E5%8C%B9%E9%85%8D/"/>
     
   </entry>
   
   <entry>
     <title>P1763 埃及分数 迭代加深搜索加剪枝</title>
-    <link href="http://example.com/2022/08/31/P1763-%E5%9F%83%E5%8F%8A%E5%88%86%E6%95%B0-%E8%BF%AD%E4%BB%A3%E5%8A%A0%E6%B7%B1%E6%90%9C%E7%B4%A2%E5%8A%A0%E5%89%AA%E6%9E%9D/"/>
-    <id>http://example.com/2022/08/31/P1763-%E5%9F%83%E5%8F%8A%E5%88%86%E6%95%B0-%E8%BF%AD%E4%BB%A3%E5%8A%A0%E6%B7%B1%E6%90%9C%E7%B4%A2%E5%8A%A0%E5%89%AA%E6%9E%9D/</id>
+    <link href="http://onem.cloud/2022/08/31/P1763-%E5%9F%83%E5%8F%8A%E5%88%86%E6%95%B0-%E8%BF%AD%E4%BB%A3%E5%8A%A0%E6%B7%B1%E6%90%9C%E7%B4%A2%E5%8A%A0%E5%89%AA%E6%9E%9D/"/>
+    <id>http://onem.cloud/2022/08/31/P1763-%E5%9F%83%E5%8F%8A%E5%88%86%E6%95%B0-%E8%BF%AD%E4%BB%A3%E5%8A%A0%E6%B7%B1%E6%90%9C%E7%B4%A2%E5%8A%A0%E5%89%AA%E6%9E%9D/</id>
     <published>2022-08-31T13:13:43.000Z</published>
     <updated>2022-11-21T14:57:21.709Z</updated>
     
@@ -93,21 +93,21 @@
     
     
     
-    <category term="Luogu" scheme="http://example.com/categories/Luogu/"/>
+    <category term="Luogu" scheme="http://onem.cloud/categories/Luogu/"/>
     
-    <category term="题解" scheme="http://example.com/categories/Luogu/%E9%A2%98%E8%A7%A3/"/>
+    <category term="题解" scheme="http://onem.cloud/categories/Luogu/%E9%A2%98%E8%A7%A3/"/>
     
     
-    <category term="迭代加深搜索" scheme="http://example.com/tags/%E8%BF%AD%E4%BB%A3%E5%8A%A0%E6%B7%B1%E6%90%9C%E7%B4%A2/"/>
+    <category term="迭代加深搜索" scheme="http://onem.cloud/tags/%E8%BF%AD%E4%BB%A3%E5%8A%A0%E6%B7%B1%E6%90%9C%E7%B4%A2/"/>
     
-    <category term="剪枝优化" scheme="http://example.com/tags/%E5%89%AA%E6%9E%9D%E4%BC%98%E5%8C%96/"/>
+    <category term="剪枝优化" scheme="http://onem.cloud/tags/%E5%89%AA%E6%9E%9D%E4%BC%98%E5%8C%96/"/>
     
   </entry>
   
   <entry>
     <title>POJ 2000:最长公共子上升序列 综合dp问题加前缀保存回溯</title>
-    <link href="http://example.com/2022/08/26/POJ-2000-%E6%9C%80%E9%95%BF%E5%85%AC%E5%85%B1%E5%AD%90%E4%B8%8A%E5%8D%87%E5%BA%8F%E5%88%97-%E7%BB%BC%E5%90%88dp%E9%97%AE%E9%A2%98%E5%8A%A0%E5%89%8D%E7%BC%80%E4%BF%9D%E5%AD%98%E5%9B%9E%E6%BA%AF/"/>
-    <id>http://example.com/2022/08/26/POJ-2000-%E6%9C%80%E9%95%BF%E5%85%AC%E5%85%B1%E5%AD%90%E4%B8%8A%E5%8D%87%E5%BA%8F%E5%88%97-%E7%BB%BC%E5%90%88dp%E9%97%AE%E9%A2%98%E5%8A%A0%E5%89%8D%E7%BC%80%E4%BF%9D%E5%AD%98%E5%9B%9E%E6%BA%AF/</id>
+    <link href="http://onem.cloud/2022/08/26/POJ-2000-%E6%9C%80%E9%95%BF%E5%85%AC%E5%85%B1%E5%AD%90%E4%B8%8A%E5%8D%87%E5%BA%8F%E5%88%97-%E7%BB%BC%E5%90%88dp%E9%97%AE%E9%A2%98%E5%8A%A0%E5%89%8D%E7%BC%80%E4%BF%9D%E5%AD%98%E5%9B%9E%E6%BA%AF/"/>
+    <id>http://onem.cloud/2022/08/26/POJ-2000-%E6%9C%80%E9%95%BF%E5%85%AC%E5%85%B1%E5%AD%90%E4%B8%8A%E5%8D%87%E5%BA%8F%E5%88%97-%E7%BB%BC%E5%90%88dp%E9%97%AE%E9%A2%98%E5%8A%A0%E5%89%8D%E7%BC%80%E4%BF%9D%E5%AD%98%E5%9B%9E%E6%BA%AF/</id>
     <published>2022-08-26T03:27:46.000Z</published>
     <updated>2022-11-21T15:05:53.131Z</updated>
     
@@ -118,23 +118,23 @@
     
     
     
-    <category term="POJ" scheme="http://example.com/categories/POJ/"/>
+    <category term="POJ" scheme="http://onem.cloud/categories/POJ/"/>
     
-    <category term="题解" scheme="http://example.com/categories/POJ/%E9%A2%98%E8%A7%A3/"/>
+    <category term="题解" scheme="http://onem.cloud/categories/POJ/%E9%A2%98%E8%A7%A3/"/>
     
     
-    <category term="dp" scheme="http://example.com/tags/dp/"/>
+    <category term="dp" scheme="http://onem.cloud/tags/dp/"/>
     
-    <category term="回溯" scheme="http://example.com/tags/%E5%9B%9E%E6%BA%AF/"/>
+    <category term="回溯" scheme="http://onem.cloud/tags/%E5%9B%9E%E6%BA%AF/"/>
     
-    <category term="前缀处理" scheme="http://example.com/tags/%E5%89%8D%E7%BC%80%E5%A4%84%E7%90%86/"/>
+    <category term="前缀处理" scheme="http://onem.cloud/tags/%E5%89%8D%E7%BC%80%E5%A4%84%E7%90%86/"/>
     
   </entry>
   
   <entry>
     <title>P1018 [NOIP2000 提高组] 乘积最大-dp 高精度</title>
-    <link href="http://example.com/2022/08/23/P1018-NOIP2000-%E6%8F%90%E9%AB%98%E7%BB%84-%E4%B9%98%E7%A7%AF%E6%9C%80%E5%A4%A7-dp-%E9%AB%98%E7%B2%BE%E5%BA%A6/"/>
-    <id>http://example.com/2022/08/23/P1018-NOIP2000-%E6%8F%90%E9%AB%98%E7%BB%84-%E4%B9%98%E7%A7%AF%E6%9C%80%E5%A4%A7-dp-%E9%AB%98%E7%B2%BE%E5%BA%A6/</id>
+    <link href="http://onem.cloud/2022/08/23/P1018-NOIP2000-%E6%8F%90%E9%AB%98%E7%BB%84-%E4%B9%98%E7%A7%AF%E6%9C%80%E5%A4%A7-dp-%E9%AB%98%E7%B2%BE%E5%BA%A6/"/>
+    <id>http://onem.cloud/2022/08/23/P1018-NOIP2000-%E6%8F%90%E9%AB%98%E7%BB%84-%E4%B9%98%E7%A7%AF%E6%9C%80%E5%A4%A7-dp-%E9%AB%98%E7%B2%BE%E5%BA%A6/</id>
     <published>2022-08-23T01:46:49.000Z</published>
     <updated>2022-11-21T14:42:06.653Z</updated>
     
@@ -145,21 +145,21 @@
     
     
     
-    <category term="Luogu" scheme="http://example.com/categories/Luogu/"/>
+    <category term="Luogu" scheme="http://onem.cloud/categories/Luogu/"/>
     
-    <category term="题解" scheme="http://example.com/categories/Luogu/%E9%A2%98%E8%A7%A3/"/>
+    <category term="题解" scheme="http://onem.cloud/categories/Luogu/%E9%A2%98%E8%A7%A3/"/>
     
     
-    <category term="dp" scheme="http://example.com/tags/dp/"/>
+    <category term="dp" scheme="http://onem.cloud/tags/dp/"/>
     
-    <category term="高精度" scheme="http://example.com/tags/%E9%AB%98%E7%B2%BE%E5%BA%A6/"/>
+    <category term="高精度" scheme="http://onem.cloud/tags/%E9%AB%98%E7%B2%BE%E5%BA%A6/"/>
     
   </entry>
   
   <entry>
     <title>P8445 射命丸文的取材之旅 构造</title>
-    <link href="http://example.com/2022/08/22/P8445-%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87%E7%9A%84%E5%8F%96%E6%9D%90%E4%B9%8B%E6%97%85-%E6%9E%84%E9%80%A0/"/>
-    <id>http://example.com/2022/08/22/P8445-%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87%E7%9A%84%E5%8F%96%E6%9D%90%E4%B9%8B%E6%97%85-%E6%9E%84%E9%80%A0/</id>
+    <link href="http://onem.cloud/2022/08/22/P8445-%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87%E7%9A%84%E5%8F%96%E6%9D%90%E4%B9%8B%E6%97%85-%E6%9E%84%E9%80%A0/"/>
+    <id>http://onem.cloud/2022/08/22/P8445-%E5%B0%84%E5%91%BD%E4%B8%B8%E6%96%87%E7%9A%84%E5%8F%96%E6%9D%90%E4%B9%8B%E6%97%85-%E6%9E%84%E9%80%A0/</id>
     <published>2022-08-22T07:49:02.000Z</published>
     <updated>2022-11-21T14:42:34.215Z</updated>
     
@@ -170,19 +170,19 @@
     
     
     
-    <category term="Luogu" scheme="http://example.com/categories/Luogu/"/>
+    <category term="Luogu" scheme="http://onem.cloud/categories/Luogu/"/>
     
-    <category term="题解" scheme="http://example.com/categories/Luogu/%E9%A2%98%E8%A7%A3/"/>
+    <category term="题解" scheme="http://onem.cloud/categories/Luogu/%E9%A2%98%E8%A7%A3/"/>
     
     
-    <category term="构造" scheme="http://example.com/tags/%E6%9E%84%E9%80%A0/"/>
+    <category term="构造" scheme="http://onem.cloud/tags/%E6%9E%84%E9%80%A0/"/>
     
   </entry>
   
   <entry>
     <title>P1433 吃奶酪 状态压缩dp 时间复杂度O（n^2*2^n）</title>
-    <link href="http://example.com/2022/08/16/Luogu-%E9%A2%98%E8%A7%A3P1433/"/>
-    <id>http://example.com/2022/08/16/Luogu-%E9%A2%98%E8%A7%A3P1433/</id>
+    <link href="http://onem.cloud/2022/08/16/Luogu-%E9%A2%98%E8%A7%A3P1433/"/>
+    <id>http://onem.cloud/2022/08/16/Luogu-%E9%A2%98%E8%A7%A3P1433/</id>
     <published>2022-08-16T04:37:40.000Z</published>
     <updated>2022-11-21T13:55:43.940Z</updated>
     
@@ -193,19 +193,19 @@
     
     
     
-    <category term="Luogu" scheme="http://example.com/categories/Luogu/"/>
+    <category term="Luogu" scheme="http://onem.cloud/categories/Luogu/"/>
     
-    <category term="题解" scheme="http://example.com/categories/Luogu/%E9%A2%98%E8%A7%A3/"/>
+    <category term="题解" scheme="http://onem.cloud/categories/Luogu/%E9%A2%98%E8%A7%A3/"/>
     
     
-    <category term="状压dp" scheme="http://example.com/tags/%E7%8A%B6%E5%8E%8Bdp/"/>
+    <category term="状压dp" scheme="http://onem.cloud/tags/%E7%8A%B6%E5%8E%8Bdp/"/>
     
   </entry>
   
   <entry>
     <title>P8482 Number 贪心 高精度 情况模拟</title>
-    <link href="http://example.com/2022/08/16/P8482-Number-%E2%80%94%E8%B4%AA%E5%BF%83%EF%BC%8C%E9%AB%98%E7%B2%BE%E5%BA%A6%EF%BC%8C%E6%83%85%E5%86%B5%E6%A8%A1%E6%8B%9F/"/>
-    <id>http://example.com/2022/08/16/P8482-Number-%E2%80%94%E8%B4%AA%E5%BF%83%EF%BC%8C%E9%AB%98%E7%B2%BE%E5%BA%A6%EF%BC%8C%E6%83%85%E5%86%B5%E6%A8%A1%E6%8B%9F/</id>
+    <link href="http://onem.cloud/2022/08/16/P8482-Number-%E2%80%94%E8%B4%AA%E5%BF%83%EF%BC%8C%E9%AB%98%E7%B2%BE%E5%BA%A6%EF%BC%8C%E6%83%85%E5%86%B5%E6%A8%A1%E6%8B%9F/"/>
+    <id>http://onem.cloud/2022/08/16/P8482-Number-%E2%80%94%E8%B4%AA%E5%BF%83%EF%BC%8C%E9%AB%98%E7%B2%BE%E5%BA%A6%EF%BC%8C%E6%83%85%E5%86%B5%E6%A8%A1%E6%8B%9F/</id>
     <published>2022-08-16T04:37:40.000Z</published>
     <updated>2022-11-21T14:21:55.065Z</updated>
     
@@ -216,21 +216,21 @@
     
     
     
-    <category term="Luogu" scheme="http://example.com/categories/Luogu/"/>
+    <category term="Luogu" scheme="http://onem.cloud/categories/Luogu/"/>
     
-    <category term="题解" scheme="http://example.com/categories/Luogu/%E9%A2%98%E8%A7%A3/"/>
+    <category term="题解" scheme="http://onem.cloud/categories/Luogu/%E9%A2%98%E8%A7%A3/"/>
     
     
-    <category term="高精度" scheme="http://example.com/tags/%E9%AB%98%E7%B2%BE%E5%BA%A6/"/>
+    <category term="高精度" scheme="http://onem.cloud/tags/%E9%AB%98%E7%B2%BE%E5%BA%A6/"/>
     
-    <category term="贪心" scheme="http://example.com/tags/%E8%B4%AA%E5%BF%83/"/>
+    <category term="贪心" scheme="http://onem.cloud/tags/%E8%B4%AA%E5%BF%83/"/>
     
   </entry>
   
   <entry>
     <title>P8475 「GLR-R3」雨水 题目思路</title>
-    <link href="http://example.com/2022/08/14/Luogu_%E9%A2%98%E8%A7%A3P8475/"/>
-    <id>http://example.com/2022/08/14/Luogu_%E9%A2%98%E8%A7%A3P8475/</id>
+    <link href="http://onem.cloud/2022/08/14/Luogu_%E9%A2%98%E8%A7%A3P8475/"/>
+    <id>http://onem.cloud/2022/08/14/Luogu_%E9%A2%98%E8%A7%A3P8475/</id>
     <published>2022-08-14T15:50:42.000Z</published>
     <updated>2022-11-21T13:57:27.308Z</updated>
     
@@ -241,19 +241,19 @@
     
     
     
-    <category term="Luogu" scheme="http://example.com/categories/Luogu/"/>
+    <category term="Luogu" scheme="http://onem.cloud/categories/Luogu/"/>
     
-    <category term="题解" scheme="http://example.com/categories/Luogu/%E9%A2%98%E8%A7%A3/"/>
+    <category term="题解" scheme="http://onem.cloud/categories/Luogu/%E9%A2%98%E8%A7%A3/"/>
     
     
-    <category term="双指针" scheme="http://example.com/tags/%E5%8F%8C%E6%8C%87%E9%92%88/"/>
+    <category term="双指针" scheme="http://onem.cloud/tags/%E5%8F%8C%E6%8C%87%E9%92%88/"/>
     
   </entry>
   
   <entry>
     <title>hexo</title>
-    <link href="http://example.com/2022/08/01/hello-world/"/>
-    <id>http://example.com/2022/08/01/hello-world/</id>
+    <link href="http://onem.cloud/2022/08/01/hello-world/"/>
+    <id>http://onem.cloud/2022/08/01/hello-world/</id>
     <published>2022-07-31T16:00:00.000Z</published>
     <updated>2022-11-21T14:22:51.299Z</updated>
     
@@ -267,10 +267,10 @@
     
     
     
-    <category term="hexo_infor" scheme="http://example.com/categories/hexo-infor/"/>
+    <category term="hexo_infor" scheme="http://onem.cloud/categories/hexo-infor/"/>
     
     
-    <category term="hexo" scheme="http://example.com/tags/hexo/"/>
+    <category term="hexo" scheme="http://onem.cloud/tags/hexo/"/>
     
   </entry>
   

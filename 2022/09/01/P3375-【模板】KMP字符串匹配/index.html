@@ -19,13 +19,13 @@
 
 <script id="hexo-configurations">
     var NexT = window.NexT || {};
-    var CONFIG = {"hostname":"example.com","root":"/","scheme":"Gemini","version":"7.8.0","exturl":false,"sidebar":{"position":"right","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":false,"show_result":false,"style":null},"back2top":{"enable":true,"sidebar":false,"scrollpercent":true},"bookmark":{"enable":true,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},"path":"search.json"};
+    var CONFIG = {"hostname":"onem.cloud","root":"/","scheme":"Gemini","version":"7.8.0","exturl":false,"sidebar":{"position":"right","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":false,"show_result":false,"style":null},"back2top":{"enable":true,"sidebar":false,"scrollpercent":true},"bookmark":{"enable":true,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},"path":"search.json"};
   </script>
 
   <meta name="description" content="前言：我本来打算复习朴素的字符串匹配的方法的，然后打开洛谷准备刷点题，结果发现了这个KMP算法，其实这个算法在我自己推导朴素字符串匹配的时候就有类似的想法了，但是由于没有发现这个最长相同前缀后缀长度的状态转移类似于dp的规律，在已经匹配相同的区域的时候选择下次移动的距离可能这个寻找这个距离耗费的时间都赶上直接朴素寻找了，但是直到今天我深入了解了kmp算法，一个字，妙啊！">
 <meta property="og:type" content="article">
 <meta property="og:title" content="P3375 【模板】KMP字符串匹配">
-<meta property="og:url" content="http://example.com/2022/09/01/P3375-%E3%80%90%E6%A8%A1%E6%9D%BF%E3%80%91KMP%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%8C%B9%E9%85%8D/index.html">
+<meta property="og:url" content="http://onem.cloud/2022/09/01/P3375-%E3%80%90%E6%A8%A1%E6%9D%BF%E3%80%91KMP%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%8C%B9%E9%85%8D/index.html">
 <meta property="og:site_name" content="白告山风">
 <meta property="og:description" content="前言：我本来打算复习朴素的字符串匹配的方法的，然后打开洛谷准备刷点题，结果发现了这个KMP算法，其实这个算法在我自己推导朴素字符串匹配的时候就有类似的想法了，但是由于没有发现这个最长相同前缀后缀长度的状态转移类似于dp的规律，在已经匹配相同的区域的时候选择下次移动的距离可能这个寻找这个距离耗费的时间都赶上直接朴素寻找了，但是直到今天我深入了解了kmp算法，一个字，妙啊！">
 <meta property="og:locale" content="zh_CN">
@@ -35,7 +35,7 @@
 <meta property="article:tag" content="KMP匹配">
 <meta name="twitter:card" content="summary">
 
-<link rel="canonical" href="http://example.com/2022/09/01/P3375-%E3%80%90%E6%A8%A1%E6%9D%BF%E3%80%91KMP%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%8C%B9%E9%85%8D/">
+<link rel="canonical" href="http://onem.cloud/2022/09/01/P3375-%E3%80%90%E6%A8%A1%E6%9D%BF%E3%80%91KMP%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%8C%B9%E9%85%8D/">
 
 
 <script id="page-configurations">
@@ -198,7 +198,7 @@
   
   
   <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN">
-    <link itemprop="mainEntityOfPage" href="http://example.com/2022/09/01/P3375-%E3%80%90%E6%A8%A1%E6%9D%BF%E3%80%91KMP%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%8C%B9%E9%85%8D/">
+    <link itemprop="mainEntityOfPage" href="http://onem.cloud/2022/09/01/P3375-%E3%80%90%E6%A8%A1%E6%9D%BF%E3%80%91KMP%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%8C%B9%E9%85%8D/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/images/7553bb33a127b51a2b8a87ed511d0f9b.jpeg">
@@ -287,7 +287,7 @@
   </li>
   <li class="post-copyright-link">
     <strong>本文链接：</strong>
-    <a href="http://example.com/2022/09/01/P3375-%E3%80%90%E6%A8%A1%E6%9D%BF%E3%80%91KMP%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%8C%B9%E9%85%8D/" title="P3375 【模板】KMP字符串匹配">http://example.com/2022/09/01/P3375-【模板】KMP字符串匹配/</a>
+    <a href="http://onem.cloud/2022/09/01/P3375-%E3%80%90%E6%A8%A1%E6%9D%BF%E3%80%91KMP%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%8C%B9%E9%85%8D/" title="P3375 【模板】KMP字符串匹配">http://onem.cloud/2022/09/01/P3375-【模板】KMP字符串匹配/</a>
   </li>
   <li class="post-copyright-license">
     <strong>版权声明： </strong>本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="noopener" target="_blank"><i class="fab fa-fw fa-creative-commons"></i>BY-NC-SA</a> 许可协议。转载请注明出处！
